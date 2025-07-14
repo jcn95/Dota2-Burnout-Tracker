@@ -12,15 +12,15 @@ Dota 2 model that pulls in real data from Dota players using Kaggle dataset and 
 1. Download all the files from directory/clone
 2. If on linux, create a virtual environment via venv. Use the following commands if on linux:
    
-   python -m venv .venv
+      python -m venv .venv
 
-   source .venv/bin/activate
+      source .venv/bin/activate
 
-   pip install -r Requirements.txt
+      pip install -r Requirements.txt
 
    Once you created the virtual environment, run the following:
 
-   python main.py
+      python main.py
 
    If on other operating systems, this won't be necessary
 
