@@ -18,7 +18,6 @@ Dota 2 model that pulls in real data from Dota players using Kaggle dataset and 
 
    pip install -r Requirements.txt
 
-
    Once you created the virtual environment, run the following:
 
    python main.py
