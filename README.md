@@ -11,6 +11,7 @@ Dota 2 model that pulls in real data from Dota players using Kaggle dataset and 
 ## How to Run Dota 2 Model
 1. Download all the files from directory/clone
 2. If on linux, create a virtual environment via venv. Use the following commands if on linux:
+   
    python -m venv .venv
    source .venv/bin/activate
    pip install -r Requirements.txt
